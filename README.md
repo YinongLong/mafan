@@ -1,5 +1,7 @@
 [![Build Status](https://travis-ci.org/hermanschaaf/mafan.svg?branch=master)](https://travis-ci.org/hermanschaaf/mafan)
 
+测试一下
+
 ===========
 Mafan - Toolkit for working with Chinese in Python
 ===========
